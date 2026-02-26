@@ -21,13 +21,13 @@ darkdetect==0.8.0
     # via pyside6-fluent-widgets
 idna==3.10
     # via requests
-numpy==2.2.6
+numpy==1.26.4
     # via
     #   opencv-python
     #   openvino
     #   shapely
 
-opencv-python==4.12.0.88
+opencv-python==4.9.0.80
     # via -r .\requirements.in
 openvino==2025.2.0
     # via -r .\requirements.in
